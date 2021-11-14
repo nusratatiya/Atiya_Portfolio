@@ -1,5 +1,4 @@
 # Nusrat Atiya's Portfolio
-example portfolio
 
 # [Project 1: File Indexer](https://github.com/nusratatiya/file-indexer)
 
